@@ -1,5 +1,5 @@
 {
-  "name": "ui-kit",
+  "name": "@mops-dao/ui-kit",
   "version": "1.0.0",
   "description": "UI Kit for Mops",
   "main": "index.js",
