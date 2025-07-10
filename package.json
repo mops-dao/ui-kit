@@ -1,0 +1,12 @@
+{
+  "name": "ui-kit",
+  "version": "1.0.0",
+  "description": "UI Kit for Mops",
+  "main": "index.js",
+  "type": "module",
+  "author": "Zen Voich <zen.voich@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
